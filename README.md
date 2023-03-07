@@ -1,3 +1,4 @@
+Download file inside this github repository and another from here https://drive.google.com/file/d/1eJOh0WdAIjh90NHpgBiLnomqwzAv1JGi/view?usp=share_link, they will be needed to install wordpress configurations (its bigger than 25mb) 
 
 
 <h2>Wordpress setup</h2>
